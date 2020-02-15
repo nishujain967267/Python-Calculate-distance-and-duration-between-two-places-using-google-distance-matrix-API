@@ -1,0 +1,5 @@
+Distance between two places can also be calculated using googlemaps module.
+
+Command to install googlemaps module :
+
+pip install googlemaps
